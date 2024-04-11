@@ -1,4 +1,6 @@
-# Assignment 1
+## Functional Tetris
+
+# Working version of the classic game Tetris, coded entirely in the functional paradigm using TypeScript.
 
 ## Usage
 
